@@ -1,1 +1,1 @@
-# Journey_to_Canadian_Laws
+The Lord is Law
