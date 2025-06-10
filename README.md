@@ -13,6 +13,6 @@ LINKS:
 * BC Legal system introduction: https://www.familylawinbc.ca/bc-legal-system
 * Criminal Law: https://supremecourtbc.ca/criminal-law
 * Justice System: https://courtsofbc.ca/justice-system/criminal
-* Crime Severity Index: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510002601
+
 
 MY: The repo has the bias toward the principle of lawfulness and order, which these principles are one tries to promote
