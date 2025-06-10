@@ -14,4 +14,4 @@ LINKS:
 * Criminal Law: https://supremecourtbc.ca/criminal-law
 * Justice System: https://courtsofbc.ca/justice-system/criminal
 
-MY: The repo has the bias toward lawfulness, which the principle of order is one tries to promote
+MY: The repo has the bias toward the principle of lawfulness and order, which these principles are one tries to promote
